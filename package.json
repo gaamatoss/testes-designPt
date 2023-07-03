@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gaamatoss/testes-designPt/issues"
   },
-  "homepage": "https://github.com/gaamatoss/testes-designPt#readme"
+  "homepage": "https://github.com/gaamatoss/testes-designPt#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^5.0.4"
+  }
 }
